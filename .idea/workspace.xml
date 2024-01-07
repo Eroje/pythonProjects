@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7463c2a-7da0-4b7f-b97b-d050560d51c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Booleans, More Loops &amp; Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Project-Exam Score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock, Paper &amp; Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshot 2024-01-06 at 1.41.59 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle Drawings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_sys_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/BACK-END/Setting-Up-A-Server-With-HTTP/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/Credentials.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/Detail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/Dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/Listbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/background_photo_desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training/Portfolio-Project-SpotifyAPI/playlist/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/bestsellers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/blueberries.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/deals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/jobs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/jobs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/sell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/resources/css/styled-breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrump-2/sell.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps-1/breadcrumps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps-1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps/breadcrumps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../breadcrumps/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttons/initial.copy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttons/initial.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttons/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myDesignSystem/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myDesignSystem/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeumorphism/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeumorphism/starting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../skeumorphism/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2aYCxL4dSEMtyRp4OltVOBYoAf1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Basic Python.executor": "Run",
+    "Python.Booleans, More Loops & Statements.executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Graphs in Python.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Mini Project-Exam Score.executor": "Run",
+    "Python.Mini Project.executor": "Run",
+    "Python.Rock, Paper & Scissors.executor": "Run",
+    "Python.Turtle Drawings.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/mojidyusuferoje/Desktop/pythonProject1",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7463c2a-7da0-4b7f-b97b-d050560d51c7" name="Changes" comment="" />
+      <created>1704486371493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704486371493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
